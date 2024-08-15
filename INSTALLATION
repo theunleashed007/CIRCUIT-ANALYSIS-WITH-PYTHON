@@ -1,0 +1,19 @@
+INSTALLATION
+
+
+
+********WINDOWS****************
+
+1. Open CMD: python -m pip install pyspice
+2. Navigate to this directory "C:\Users\YOUR_PC_NAME\AppData\Roaming\Python\Python39\Scripts
+3. Run this command .\pyspice-post-installation --install-ngspice-dll
+
+
+
+
+********LINUX****************
+
+1. pip install pyspice
+2. sudo apt update
+3. sudo apt install libngspice0-dev
+
